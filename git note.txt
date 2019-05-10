@@ -1,4 +1,4 @@
 git init untuk menentukan folder yang ingin dimasukan ke git(pada terminal masuk pada folder)
 git add <nama file> [menambahkan spesifik file pada staging] / git add .[menambahkan semua file pada staging]
-git re --cached <nama file> menghapus file pada staging
+git rm --cached <nama file> menghapus file pada staging
 git commit -m "(notes)" [mengcommit file]
